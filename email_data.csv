@@ -1,0 +1,19 @@
+subject,body,replay,forward,action
+Aplication for QA,"Dear HR,
+I'm applying for the QA role in your orgnisation.
+Thank you","Dear Candidate,
+Thank You for Applying,
+will get in touch soon.
+Thank you",fwd,reply
+Aplication for QA,"Dear HR,
+I'm applying for the QA role in your orgnisation.
+Thank you","Dear Candidate,
+Thank You for Applying,
+will get in touch soon.
+Thank you",fwd,delete
+Aplication for QA,"Dear HR,
+I'm applying for the QA role in your orgnisation.
+Thank you","Dear Candidate,
+Thank You for Applying,
+will get in touch soon.
+Thank you",fwd,forward
